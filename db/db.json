@@ -79,16 +79,16 @@
   ],
   "burgers": [
     {
-      "id": "14da",
+      "id": "4766",
       "nome": "Maria de Fátima Nunes Alves",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
+      "carne": "Maminha",
+      "pao": "Integral",
       "opcionais": [
+        "Bacon",
         "Cheddar",
-        "Tomate",
-        "Cebola roxa"
+        "Tomate"
       ],
-      "status": "Solicitado"
+      "status": "Em produção"
     }
   ]
 }

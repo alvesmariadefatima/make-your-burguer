@@ -14,6 +14,10 @@ O "Make Your Burguer" é um projeto que permite aos usuários montar seu própri
 - **Backend**: [json-server](https://github.com/typicode/json-server)
 - **Manipulação de Dados**: Arquivos JSON
 
+## 📽️ Vídeo de Demonstração
+
+[![Watch the video](https://i.ytimg.com/an_webp/KxD9MLkL2JA/mqdefault_6s.webp?du=3000&sqp=CJDA_bUG&rs=AOn4CLBHXTQZtgPAupH6n-TNJ9K_bzcFTQ)](https://www.youtube.com/watch?v=KxD9MLkL2JA)
+
 ## 💻 Configuração e Execução
 
 ### Requisitos
